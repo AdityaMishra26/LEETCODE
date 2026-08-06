@@ -13,7 +13,8 @@ public:
         int p;
         for(int i=n;i<=100;i++){
             p=divi(i);
-            if(p%t==0)return i;
+            if(p%t==0){return i;
+            break;}
         }
         return -1;
     }
