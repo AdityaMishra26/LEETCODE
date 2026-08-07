@@ -29,13 +29,13 @@ public:
         ListNode* newH=reverse(slow->next);
         while(newH!=nullptr){
             if(temp->val!=newH->val){
-                reverse(newH);
+                // reverse(newH);
                 return false;
             }
             temp=temp->next;
             newH=newH->next;
         }
-        reverse(newH);
+        // reverse(newH);
         return true;
     }
 };
