@@ -9,8 +9,8 @@ public:
             temp[i]=nums[n-k+i];
         }
         //shift remaining to right
-        for(int j=n-1;j>=k;j--){
-            nums[j]=nums[j-k];
+        for(int j=n-k-1;j>=0;j--){
+            nums[j+k]=nums[j];
         }
         //temp ki value put krdo suruwat me
         for(int i=0;i<k;i++){
