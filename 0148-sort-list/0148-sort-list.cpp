@@ -20,7 +20,6 @@ public:
                 temp->next=p1;
                 temp=p1;
                 p1=p1->next;
-                
             }
             else {
                 temp->next=p2;
@@ -33,27 +32,20 @@ public:
         }
         else temp->next=p2;
         return dummyN->next;
-
     }
-    ListNode* middle(ListNode* head){
+  
+    ListNode* sortList(ListNode* head) {
         if(head==NULL || head->next==NULL)return head;
         ListNode* slow=head;
         ListNode* fast=head->next;
-        while(fast!=NULL && fast->next!=NULL)
-        {
+        while(fast&&fast->next){
             slow=slow->next;
             fast=fast->next->next;
         }
-        return slow;
-    }
-    ListNode* sortList(ListNode* head) {
-        if(head==NULL || head->next==NULL)return head;
-        ListNode* mid=middle(head);
-        ListNode* LeftNode=head;
-        ListNode* RightNode=mid->next;
-        mid->next=NULL;
-        ListNode* left=sortList(LeftNode);
-        ListNode* right=sortList(RightNode);
+        ListNode* right=slow->next;
+        slow->next=NULL;
+        ListNode* left=sortList(head);
+        right=sortList(right);
         return merge(left,right);
     }
 };
