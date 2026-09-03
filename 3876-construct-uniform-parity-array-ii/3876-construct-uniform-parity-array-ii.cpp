@@ -12,6 +12,24 @@ public:
         }
         if(ans1==n||ans2==n)return true;
         
-        return nums1[0]%2!=0;
+        bool possible =true;
+        for(int i=0;i<n;i++){
+            
+            if(nums1[i]%2==0){
+                bool found=false;
+               for(int j=0;j<i;j++){
+               if(nums1[j]%2!=0){
+                    found=true;
+                    break;
+                }
+               } 
+               if(!found){
+                    possible =false;
+                    break;
+                }
+            }
+        }
+        return possible;
+        
     }
 };
