@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/AdityaMishra26/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/AdityaMishra26/LEETCODE/tree/master/0503-next-greater-element-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/AdityaMishra26/LEETCODE/tree/master/0189-rotate-array) |
+| [0503-next-greater-element-ii](https://github.com/AdityaMishra26/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [1386-cinema-seat-allocation](https://github.com/AdityaMishra26/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AdityaMishra26/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AdityaMishra26/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/AdityaMishra26/LEETCODE/tree/master/1386-cinema-seat-allocation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/AdityaMishra26/LEETCODE/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
