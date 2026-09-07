@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AdityaMishra26/LEETCODE/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/AdityaMishra26/LEETCODE/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/AdityaMishra26/LEETCODE/tree/master/0503-next-greater-element-ii) |
+| [0860-lemonade-change](https://github.com/AdityaMishra26/LEETCODE/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/AdityaMishra26/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AdityaMishra26/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AdityaMishra26/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/AdityaMishra26/LEETCODE/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/AdityaMishra26/LEETCODE/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/AdityaMishra26/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 ## Bit Manipulation
 |  |
