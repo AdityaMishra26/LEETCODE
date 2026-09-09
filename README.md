@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/AdityaMishra26/LEETCODE/tree/master/0189-rotate-array) |
+| [3871-count-commas-in-range-ii](https://github.com/AdityaMishra26/LEETCODE/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AdityaMishra26/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String
 |  |
