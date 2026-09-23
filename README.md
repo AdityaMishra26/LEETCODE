@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/AdityaMishra26/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0860-lemonade-change](https://github.com/AdityaMishra26/LEETCODE/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/AdityaMishra26/LEETCODE/tree/master/1386-cinema-seat-allocation) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdityaMishra26/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AdityaMishra26/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AdityaMishra26/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Math
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdityaMishra26/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AdityaMishra26/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AdityaMishra26/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/AdityaMishra26/LEETCODE/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/AdityaMishra26/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdityaMishra26/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Bracket Sequences
 |  |
 | ------- |
