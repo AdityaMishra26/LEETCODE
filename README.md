@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AdityaMishra26/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/AdityaMishra26/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/AdityaMishra26/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AdityaMishra26/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/AdityaMishra26/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AdityaMishra26/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/AdityaMishra26/LEETCODE/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AdityaMishra26/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/AdityaMishra26/LEETCODE/tree/master/0678-valid-parenthesis-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AdityaMishra26/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search
 |  |
 | ------- |
