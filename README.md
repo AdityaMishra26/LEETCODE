@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AdityaMishra26/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/AdityaMishra26/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaMishra26/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AdityaMishra26/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AdityaMishra26/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0678-valid-parenthesis-string](https://github.com/AdityaMishra26/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AdityaMishra26/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AdityaMishra26/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AdityaMishra26/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AdityaMishra26/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AdityaMishra26/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AdityaMishra26/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
