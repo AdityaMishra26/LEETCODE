@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AdityaMishra26/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaMishra26/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AdityaMishra26/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0347-top-k-frequent-elements](https://github.com/AdityaMishra26/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [1386-cinema-seat-allocation](https://github.com/AdityaMishra26/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AdityaMishra26/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AdityaMishra26/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AdityaMishra26/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/AdityaMishra26/LEETCODE/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/AdityaMishra26/LEETCODE/tree/master/0189-rotate-array) |
+| [0347-top-k-frequent-elements](https://github.com/AdityaMishra26/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/AdityaMishra26/LEETCODE/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/AdityaMishra26/LEETCODE/tree/master/0503-next-greater-element-ii) |
 | [0860-lemonade-change](https://github.com/AdityaMishra26/LEETCODE/tree/master/0860-lemonade-change) |
@@ -107,10 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/AdityaMishra26/LEETCODE/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/AdityaMishra26/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/AdityaMishra26/LEETCODE/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/AdityaMishra26/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/AdityaMishra26/LEETCODE/tree/master/0455-assign-cookies) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AdityaMishra26/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Merge Sort
@@ -166,4 +170,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/AdityaMishra26/LEETCODE/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AdityaMishra26/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AdityaMishra26/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AdityaMishra26/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AdityaMishra26/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
