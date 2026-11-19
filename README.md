@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AdityaMishra26/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2090-k-radius-subarray-averages](https://github.com/AdityaMishra26/LEETCODE/tree/master/2090-k-radius-subarray-averages) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/AdityaMishra26/LEETCODE/tree/master/2559-count-vowel-strings-in-ranges) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AdityaMishra26/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AdityaMishra26/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AdityaMishra26/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AdityaMishra26/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/AdityaMishra26/LEETCODE/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaMishra26/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/AdityaMishra26/LEETCODE/tree/master/0455-assign-cookies) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AdityaMishra26/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AdityaMishra26/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Merge Sort
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/AdityaMishra26/LEETCODE/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/AdityaMishra26/LEETCODE/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/AdityaMishra26/LEETCODE/tree/master/1386-cinema-seat-allocation) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AdityaMishra26/LEETCODE/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AdityaMishra26/LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AdityaMishra26/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
