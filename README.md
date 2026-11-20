@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AdityaMishra26/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AdityaMishra26/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/AdityaMishra26/LEETCODE/tree/master/2559-count-vowel-strings-in-ranges) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/AdityaMishra26/LEETCODE/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AdityaMishra26/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/AdityaMishra26/LEETCODE/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
