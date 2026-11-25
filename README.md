@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AdityaMishra26/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AdityaMishra26/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AdityaMishra26/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3934-smallest-unique-subarray](https://github.com/AdityaMishra26/LEETCODE/tree/master/3934-smallest-unique-subarray) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/AdityaMishra26/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AdityaMishra26/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AdityaMishra26/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3934-smallest-unique-subarray](https://github.com/AdityaMishra26/LEETCODE/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AdityaMishra26/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3934-smallest-unique-subarray](https://github.com/AdityaMishra26/LEETCODE/tree/master/3934-smallest-unique-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -201,4 +204,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AdityaMishra26/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/AdityaMishra26/LEETCODE/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/AdityaMishra26/LEETCODE/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/AdityaMishra26/LEETCODE/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
